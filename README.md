@@ -1,6 +1,6 @@
-# feature
+# Feature
 
-A new Flutter project.
+This is a small scale flutter project which helps the devs to get familiar with the native features of flutter
 
 ## Getting Started
 
